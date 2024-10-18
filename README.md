@@ -1,1 +1,3 @@
 # Bot Programming
+This is a Python Language based bot that autmatically fetches data from google sheets and fill the form automatically using that data.
+Hope you will like it...
